@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/PadmajaMaram/October2025/tree/master/0907-koko-eating-bananas) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/PadmajaMaram/October2025/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/PadmajaMaram/October2025/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/PadmajaMaram/October2025/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/PadmajaMaram/October2025/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/PadmajaMaram/October2025/tree/master/0907-koko-eating-bananas) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/PadmajaMaram/October2025/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/PadmajaMaram/October2025/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Linked List
 |  |
 | ------- |
