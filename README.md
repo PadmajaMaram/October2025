@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/PadmajaMaram/October2025/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/PadmajaMaram/October2025/tree/master/0084-largest-rectangle-in-histogram) |
 ## Monotonic Stack
 |  |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/PadmajaMaram/October2025/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/PadmajaMaram/October2025/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
