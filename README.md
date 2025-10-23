@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/PadmajaMaram/October2025/tree/master/0084-largest-rectangle-in-histogram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/PadmajaMaram/October2025/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/PadmajaMaram/October2025/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/PadmajaMaram/October2025/tree/master/0907-koko-eating-bananas) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/PadmajaMaram/October2025/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/PadmajaMaram/October2025/tree/master/0222-count-complete-tree-nodes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/PadmajaMaram/October2025/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/PadmajaMaram/October2025/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/PadmajaMaram/October2025/tree/master/0907-koko-eating-bananas) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/PadmajaMaram/October2025/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/PadmajaMaram/October2025/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/PadmajaMaram/October2025/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PadmajaMaram/October2025/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/PadmajaMaram/October2025/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/PadmajaMaram/October2025/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## String
 |  |
@@ -84,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/PadmajaMaram/October2025/tree/master/0222-count-complete-tree-nodes) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/PadmajaMaram/October2025/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
