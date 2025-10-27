@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PadmajaMaram/October2025/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/PadmajaMaram/October2025/tree/master/0389-find-the-difference) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/PadmajaMaram/October2025/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PadmajaMaram/October2025/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PadmajaMaram/October2025/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/PadmajaMaram/October2025/tree/master/0389-find-the-difference) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/PadmajaMaram/October2025/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## String
 |  |
@@ -86,10 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/PadmajaMaram/October2025/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/PadmajaMaram/October2025/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/PadmajaMaram/October2025/tree/master/0168-excel-sheet-column-title) |
+| [0389-find-the-difference](https://github.com/PadmajaMaram/October2025/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/PadmajaMaram/October2025/tree/master/0222-count-complete-tree-nodes) |
+| [0389-find-the-difference](https://github.com/PadmajaMaram/October2025/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
 | ------- |
