@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/PadmajaMaram/October2025/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/PadmajaMaram/October2025/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/PadmajaMaram/October2025/tree/master/0148-sort-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PadmajaMaram/October2025/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/PadmajaMaram/October2025/tree/master/0389-find-the-difference) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/PadmajaMaram/October2025/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -105,9 +107,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/PadmajaMaram/October2025/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/PadmajaMaram/October2025/tree/master/0148-sort-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PadmajaMaram/October2025/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/PadmajaMaram/October2025/tree/master/0168-excel-sheet-column-title) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/PadmajaMaram/October2025/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/PadmajaMaram/October2025/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
