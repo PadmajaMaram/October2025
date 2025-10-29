@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/PadmajaMaram/October2025/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/PadmajaMaram/October2025/tree/master/0389-find-the-difference) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/PadmajaMaram/October2025/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/PadmajaMaram/October2025/tree/master/0168-excel-sheet-column-title) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/PadmajaMaram/October2025/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
